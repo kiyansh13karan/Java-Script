@@ -62,3 +62,9 @@ mycoding.forEach( (item) => {
     console.log(item.languagename) ;
     
 })
+
+
+
+
+
+// for-each did not return anything
