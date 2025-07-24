@@ -1,0 +1,27 @@
+DOM => Document object MOdel 
+
+
+DOM (Document Object Model) is a programming interface for web documents. It represents the entire HTML document as a tree structure where each node is an object representing a part of the page — elements, text, attributes, etc.
+When a webpage loads, the browser creates a DOM of the page so JavaScript can interact with it.
+
+
+
+
+
+HTML file :- 
+    <html>
+      <body>
+        <h1>Hello</h1>
+        <p>This is a paragraph.</p>
+      </body>
+    </html>
+
+
+
+
+The DOM loks like :- 
+    Document
+    └── html
+        └── body
+            ├── h1
+            └── p
